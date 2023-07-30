@@ -17,9 +17,9 @@ Harshit - harshlf4@gmail.com <br>
 Contributions : <br>
 App development - Manish <br>
 Notebook Documentation - Rahul <br>
-PPT- Sakshi, Khushi <br>
+PPT- Sakshi, Khushi, Rahul <br>
 SRS - Jagdeesh <br>
-EDA, Model building, SRS, Api  - Harshit
+EDA, Model building, SRS, Api  - Harshit, Rahul
 <br>
 
 LIVE LINK : https://huggingface.co/spaces/Tihsrah/Credit_Risk_Assessment
